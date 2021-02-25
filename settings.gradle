@@ -1,2 +1,4 @@
+include ':myapplication'
+include ':AndroidLearn'
 include ':app'
 rootProject.name = "AndroidLearn"
